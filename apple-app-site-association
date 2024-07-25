@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Jennifer-Chukuemeka.FlashPay", 
+        "paths": ["*"]  // Adjust paths if needed
+      }
+    ]
+  }
+}
